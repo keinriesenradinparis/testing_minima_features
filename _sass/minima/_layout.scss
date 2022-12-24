@@ -339,3 +339,7 @@
     width: calc(50% - (#{$spacing-unit} / 2));
   }
 }
+
+.overflow-wrapper {
+  overflow-x: scroll;
+}
