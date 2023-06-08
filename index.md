@@ -9,3 +9,4 @@ layout: home
 ---
 
 Site: <{{ site.baseurl }}>
+[asd]({{ site.baseurl }})
