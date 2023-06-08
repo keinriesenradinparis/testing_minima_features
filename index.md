@@ -9,5 +9,5 @@ layout: home
 ---
 
 Site: <{{ site.baseurl }}>
-[asd]({{ site.baseurl }})
+[variable]({{ site.baseurl }})
 [asd](/testing_minima_features)
