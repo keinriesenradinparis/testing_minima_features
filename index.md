@@ -11,3 +11,4 @@ layout: home
 Site: <{{ site.baseurl }}>
 [variable]({{ site.baseurl }})
 [asd](/testing_minima_features)
+[index](/index)
