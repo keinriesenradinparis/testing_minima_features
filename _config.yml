@@ -21,7 +21,7 @@ show_excerpts: false # set to true to show excerpts on the homepage
 # baseurl is your github repository's name prefixed with a /
 # baseurl: /
 # location of code, the full url to your github repository
-source-code: https://github.com/thecdil/bootstrap-template
+# source-code: https://github.com/thecdil/bootstrap-template
 
 
 # Minima date format
